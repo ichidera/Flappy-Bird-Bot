@@ -1,6 +1,6 @@
 # Flappy Bird Bot
 
-![Flappy Bird bot demo](Assets/demo.gif)
+<img src="Assets/demo.gif" alt="Pac-Man bot demo" width="200">
 
 A Python bot that plays [flappybird.io](https://flappybird.io/) on its own. It plans every flap with a simulation that matches the game's own physics step for step.
 
